@@ -11,4 +11,4 @@ function act_child_enqueue_styles() {
         wp_get_theme()->get('Version')
     );
 }
-?>
+?> 
