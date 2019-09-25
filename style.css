@@ -12,3 +12,30 @@
  Text Domain:  act-child
 */
 
+.navbar-brand {
+    padding: 0px 15px; 
+}
+
+.navbar {
+    padding: 25px 0;
+    border-bottom: 0;
+    background: 0 0;
+    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    transition: background .5s ease-in-out,padding .5s ease-in-out;
+    background-color: #000;
+}
+
+#can-letter-area-take-action-support-veteran-access-for-service-connected-disabilities li{
+	list-style:none;
+}
+
+#can-letter-area-take-action-support-veteran-access-for-service-connected-disabilities input[type="text"],
+#can-letter-area-take-action-support-veteran-access-for-service-connected-disabilities textarea#message{
+	width:50%;
+
+}
+textarea#message{
+height:20em;
+padding:0 0.5em;
+}
